@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-I'm an enthusiastic data analytics and data science student from Valencia, Spain, who loves to learn new things, eager to grow in the field. Passionate about gaining hands-on experience and collaborating through teamwork, I'm dedicated to exploring new techniques and contributing to the dynamic world of data science.<br>
+I'm an enthusiastic Data Engineer/Data Scientist from Valencia, Spain, who loves to learn new things, eager to grow in the field. Passionate about gaining hands-on experience and collaborating through teamwork, I'm dedicated to exploring new techniques and contributing to the dynamic world of data science.<br>
 
 ###
 
