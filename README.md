@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://comunidadmontepinar.es/lqsa24h/" target="_blank"><img src="https://camo.githubusercontent.com/63ba8dd1ec57d870caeee01b98fa8f8918029d1d93f20621d8f2e218e84d3abc/68747470733a2f2f7062732e7477696d672e636f6d2f6578745f74775f766964656f5f7468756d622f313731343037303634333731393731363836342f70752f696d672f4c65424f5169435636415348614d30772e6a70673a6c61726765" alt="Website Preview" width="350" height="200"></a>
+  <a href="https://comunidadmontepinar.es/lqsa24h/" target="_blank"><img src="https://pbs.twimg.com/ext_tw_video_thumb/1714070643719716864/pu/img/LeBOQiCV6ASHaM0w.jpg:large" alt="Website Preview" width="350" height="200"></a>
 </div>
 
 
@@ -15,9 +15,6 @@
 </a>
 <a href="https://www.linkedin.com/in/jorge-dom%C3%ADnguez-55vlc/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23"/>
-</a>
-<a href="https://letterboxd.com/jorged5/" target="_blank">
-<img src="https://i.postimg.cc/vB06RVd8/letterboxd.png"/>
 </a>
 
 ###
@@ -37,14 +34,15 @@ I'm an enthusiastic Data Engineer/Data Scientist from Valencia, Spain, who loves
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>         
+          
 
 </div>
 
